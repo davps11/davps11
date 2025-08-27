@@ -1,0 +1,13 @@
+# Ignore build output
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.cache
+*.pdb
+*.tmp
+# Mac / Windows files
+.DS_Store
+Thumbs.db
