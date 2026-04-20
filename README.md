@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Davps
-- 👀 I’m interested in Aviation
-- 🌱 I’m currently learning More About Aviation
-- 💞️ I’m looking to collaborate on YouTube
-- 📫 How to reach me davpsbusiness@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like pizza
+
